@@ -1,0 +1,8 @@
+research_output/sd_1_4_prompts/
+├── 00_generated_images.png           # Overview of all 8 images
+├── 01_layer_down_0.png               # Layer comparison across prompts
+├── 01_layer_down_1.png
+├── ... (7 layers total)
+├── 02_detailed_prompt_1.png
+├── prompt_00/, prompt_01/, etc.      # Individual folders for each prompt
+└── analysis_summary.md               # Detailed report
